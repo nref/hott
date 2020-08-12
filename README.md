@@ -25,7 +25,9 @@ drwxr-xr-x  8 pi pi 4.0K Aug 12 19:23 .git
 ```
 
 ### Shell 2
+```
 > touch test.txt
+```
 
 ### Shell 1
 ```
@@ -40,7 +42,9 @@ drwxr-xr-x  8 pi pi 4.0K Aug 12 19:23 .git
 ```
 
 ### Shell 2
+```
 > echo test > test.txt
+```
 
 ### Shell 1
 ```
